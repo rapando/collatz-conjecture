@@ -1,3 +1,10 @@
+/*
+ * Collatz Conjecture is one of Mathematic's unsolved problemts.
+ * The conjecture asks whether repeating two simple arithmetic operations will eventually transform every positive integer into 1
+ * More information can be found on its Wikipedia Article: https://en.wikipedia.org/wiki/Collatz_conjecture
+ * This is a Go implementation, with a graph to show the pattern followed when a given integer is tested
+ */
+
 package main
 
 import (
